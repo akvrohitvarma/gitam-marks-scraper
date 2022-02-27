@@ -99,7 +99,7 @@ You can message me at [Discord](https://discord.com/) at rock_stoner777#1247
 ## 🔗 Links
  - [My Youtube Channel](https://www.youtube.com/channel/UChISIq7dx8yBLGB5L0LvSrw)
  - [Download RONEE](https://akvrv.com/)
- - [Get the logo here](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 ## Authors
 
