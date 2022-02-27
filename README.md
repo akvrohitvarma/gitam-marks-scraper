@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="100"/>
+  <a href="https://www.flaticon.com/free-icons/data-analytics" title="data analytics icons">Data analytics icons created by Freepik - Flaticon</a>
 </div>
 
 # GITAM Marks Scraper
