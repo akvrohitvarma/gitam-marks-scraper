@@ -19,6 +19,8 @@ I did not intend to include any trojan, backdoor or ransomware to
 this software, if your antivirus detects that my software is malicious
 it is purely a fluke, I do not intend to cause harm to any individual/system
 
+[![Download now](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download now")](https://github.com/akvrohitvarma/gitam-marks-scraper/raw/master/gitam-marks-scraper.exe)
+
 
 ## Features
 
