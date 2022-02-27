@@ -67,7 +67,7 @@ of others.
 You can install [Glasswire](https://www.glasswire.com/) or [Wireshark](https://www.wireshark.org/)
 and analyze the requests made by my software, the only request it makes is to the 
 results server, you can scan my software in sandboxes like [VirusTotal](https://www.virustotal.com/gui/home/upload)
-but beware there maybe false positives saying my software is a malware, because I don't software firm, I'm still a student
+but beware there maybe false positives saying my software is a malware, because I don't own any software firm, I'm still a student
 
 You can check VirusTotal results by clicking [here](https://www.virustotal.com/gui/file/c7326852edc233e197ed015f0a787c0291a29eb8867f3ce033a360038545e14c/detection)
 
