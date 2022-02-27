@@ -19,32 +19,6 @@ I did not intend to include any trojan, backdoor or ransomware to
 this software, if your antivirus detects that my software is malicious
 it is purely a fluke, I do not intend to cause harm to any individual/system
 
-.button {
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
-}
-
-.button1:hover {
-  background-color: #4CAF50;
-  color: white;
-}
-
-<button class="button button1">Green</button>
-
 
 ## Features
 
