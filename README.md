@@ -99,6 +99,3 @@ You can message me at [Discord](https://discord.com/) at rock_stoner777#1247
 ## Authors
 
 - [@rohitvarma](https://github.com/akvrohitvarma)
-
-
-<a href="https://www.flaticon.com/free-icons/data-analytics" title="data analytics icons">Data analytics icons created by Freepik - Flaticon</a>
