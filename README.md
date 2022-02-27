@@ -79,6 +79,10 @@ Because the publicly stored data is in .NET and also it takes you approximately
 it in excel for further data processing, I believe this is the only software in the entire
 internet that does this
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/70877091/155869502-98ecaa70-c75f-4a69-b618-cd41b385e913.png)
+
+
 #### How can I contact you?
 
 You can message me at [Discord](https://discord.com/) at rock_stoner777#1247
