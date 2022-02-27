@@ -89,7 +89,7 @@ You can message me at [Discord](https://discord.com/) at rock_stoner777#1247
 
 **Interface:** Commandline tools, Colorama, Tabulate
 
-**Backend** Python with BeautifulSoup, Openpyxl and requests
+**Backend:** Python with BeautifulSoup, Openpyxl and requests
 
 
 ## 🔗 Links
