@@ -24,10 +24,10 @@ this software, if your antivirus detects that my software is malicious
 it is purely a fluke, I do not intend to cause harm to any individual/system
 
 _SHA1 Hash Checksum_
-> 3b1a65c859887552e121bd4a0755093c7ed0899c
+> 9427ed9b568eed4915619c3120b6195b718d245e
 
 _MD5 Hash Checksum_
-> 77c959c8bc7d3b70c015f2f4c3e834e3
+> d4c148d50fcee0401a992a9902c39e75
 
 
 
