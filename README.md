@@ -4,7 +4,7 @@
 
 # GITAM Marks Scraper  - V2
 
-**Version 2 is now available, with new feature "Concise Marks" which is more powerful and robust
+**Version 2 is now available, with new "Concise Marks" feature which is more powerful and robust
 it now features excellent session management for better results and also works even when
 website uses google authentication!!**
 
