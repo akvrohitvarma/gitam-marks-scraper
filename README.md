@@ -23,6 +23,12 @@ I did not intend to include any trojan, backdoor or ransomware to
 this software, if your antivirus detects that my software is malicious
 it is purely a fluke, I do not intend to cause harm to any individual/system
 
+_SHA1 Hash Checksum_
+> 3b1a65c859887552e121bd4a0755093c7ed0899c
+
+_MD5 Hash Checksum_
+> 77c959c8bc7d3b70c015f2f4c3e834e3
+
 [![Download now](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download now")](https://github.com/akvrohitvarma/gitam-marks-scraper/raw/master/gitam-marks-scraper.exe)
 
 
