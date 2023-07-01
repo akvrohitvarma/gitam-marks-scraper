@@ -1,8 +1,12 @@
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="100"/>
+  <img src="https://cdn.icon-icons.com/icons2/3456/PNG/512/hand_document_list_paper_file_icon_219540.png" width="100"/>
 </div>
 
-# GITAM Marks Scraper
+# GITAM Marks Scraper  - V2
+
+**Version 2 is now available, with new feature "Concise Marks" which is more powerful and robust
+it now features excellent session management for better results and also works even when
+website uses google authentication!!**
 
 This software helps Individuals/Teachers to scrape and store marks
 in an excel sheet to make it easier to view marks, calculate class average,
